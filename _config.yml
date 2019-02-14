@@ -3,3 +3,7 @@ description: Welcome to my GitHub.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  lyric_url: https://www.lyriciq.com/
+  upstge_url: http://www.upstge.com/
