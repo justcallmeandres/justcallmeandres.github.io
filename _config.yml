@@ -1,9 +1,5 @@
-title: Andres Hernandez
-description: Welcome to my GitHub.
-show_downloads: false
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-
-github:
-  lyric_url: https://www.lyriciq.com/
-  upstge_url: http://www.upstge.com/
